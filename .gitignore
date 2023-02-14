@@ -2,3 +2,4 @@ env
 exports
 service_account.json
 assets_customers_reviewed_by_email_address.png
+config.ini
